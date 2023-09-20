@@ -1,5 +1,5 @@
 """
-WSGI config for core project.
+WSGI config for base__artemenko_kateryna__django project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 

@@ -1,5 +1,5 @@
 """
-ASGI config for core project.
+ASGI config for base__artemenko_kateryna__django project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
